@@ -62,6 +62,14 @@ body {
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important; }
 
+
+
+  .abd1
+  {width:200px;
+    height:100px;
+
+  }
+
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
@@ -8352,7 +8360,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #a0a0b4; }
+  color: white; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8965,7 +8973,7 @@ h1, h2, h3, h4, h5,
  
 
 .bg-light {
-  background: #f3f3f3 !important;
+  background: #447af1  !important;
   position: relative;
   padding-bottom: 15em;
   z-index: 0;
@@ -8974,11 +8982,11 @@ h1, h2, h3, h4, h5,
     position: absolute;
     content: '';
     height: 50px;
-    background: #fff !important;
+    
     z-index: 2;
     top: -25px; }
   .bg-light:before {
-    width: 35%;
+  
     left: 0;
     -ms-transform: matrix(1, -0.19, 0, 2, 0, 0);
     /* IE 9 */
