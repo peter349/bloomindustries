@@ -70,6 +70,19 @@ body {
 
   }
 
+
+
+
+  .adm1
+  {
+    width:170px;
+    height:70px;
+  }
+  .bbb1
+  {
+    color:skyblue;
+  }
+
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
