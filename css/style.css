@@ -75,8 +75,8 @@ body {
 
   .adm1
   {
-    width:170px;
-    height:70px;
+    width:250px;
+    height:120px;
   }
   .bbb1
   {
@@ -8644,7 +8644,7 @@ h1, h2, h3, h4, h5,
   .slider-text .bread {
     font-weight: 900;
     position: relative;
-    color: #fff;
+    color: blue;
     text-transform: uppercase; }
 
 .owl-carousel {
